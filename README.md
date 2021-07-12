@@ -1,5 +1,5 @@
 # RP_prediction
-This repository is aiming for updated the workflows of Project rapid progression prediction.
+This repository is aiming for updated the workflows of Project rapid progression prediction. (Feature data NOT included!!! Consider access to server to obtain the data.)
 
 Following things should be considered:
 
